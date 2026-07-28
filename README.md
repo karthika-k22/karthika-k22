@@ -102,3 +102,9 @@ An **Artificial Intelligence & Data Science student** passionate about building 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=karthika-k22&bg_color=000408&color=CAF3E4&line=2BD9A5&point=66FFCC&area=true&area_color=1B5040&hide_border=true"/>
 
 </div>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/karthika-k22/karthika-k22/output/github-contribution-grid-snake.svg" alt="Contribution" width="100%"/>
+
+</div>
