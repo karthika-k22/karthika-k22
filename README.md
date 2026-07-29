@@ -94,6 +94,10 @@ An **Artificial Intelligence & Data Science student** passionate about building 
 
 </div>
 
+---
+
+# Contribution
+
 <div align="center">
 
 <picture>
@@ -102,11 +106,17 @@ An **Artificial Intelligence & Data Science student** passionate about building 
     srcset="https://raw.githubusercontent.com/karthika-k22/karthika-k22/output/github-contribution-grid-snake-dark.svg"
   />
 
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/karthika-k22/karthika-k22/output/github-contribution-grid-snake-light.svg"
+  />
+
   <img
-    src="https://raw.githubusercontent.com/karthika-k22/karthika-k22/output/github-contribution-grid-snake.svg"
-    alt="Contribution"
+    src="https://raw.githubusercontent.com/karthika-k22/karthika-k22/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution"
     width="100%"
   />
+
 </picture>
 
 </div>
