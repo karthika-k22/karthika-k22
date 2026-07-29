@@ -5,8 +5,8 @@
   <img src="./assets/banner-dark.png" width="100%" alt="Karthika K Banner">
 </picture>
 
-<div align="center">
 # Hey there, I'm KARTHIKA!
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=2BD9A5&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Data+Science+Student;Designing+Tomorrow+with+Artificial+Intelligence;Computer+Vision+%7C+NLP+%7C+Machine+Learning;Always+Learning.+Always+Building." />
 
@@ -106,5 +106,79 @@ An **Artificial Intelligence & Data Science student** passionate about building 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/karthika-k22/karthika-k22/output/github-contribution-grid-snake.svg" alt="Contribution" width="100%"/>
+
+</div>
+
+---
+
+# Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### Landslide Prediction System
+
+Landslide prediction using Machine Learning with automated email alerts using 12 vital factors.
+
+**Tech Stack**
+
+Python • Scikit-learn • Random Forest • Gradient Boosting
+
+</td>
+
+<td width="50%">
+
+### Repository Intelligence
+
+Analyzes software repositories using AI to understand code structure, deployment readiness, and project insights.
+
+**Tech Stack**
+
+Python • AST • NLP • LLM • GitHub API
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### Autism Learning Platform
+
+Interactive educational platform using gamification and AI-assisted learning.
+
+**Tech Stack**
+
+Python • Firebase • HTML • CSS • JavaScript
+
+</td>
+
+<td width="50%">
+
+### Edge AI Crack Detection
+
+Computer Vision model for detecting concrete cracks using lightweight Edge AI deployment.
+
+**Tech Stack**
+
+Python • OpenCV • TensorFlow • CNN
+
+</td>
+
+</tr>
+</table>
+
+---
+# Currently Learning
+
+<div align="center">
+|:---:|-----------|
+| Computer Vision |
+| Natural Language Processing |
+| Java + DSA |
+| Python for AI Systems |
 
 </div>
