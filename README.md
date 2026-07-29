@@ -56,15 +56,6 @@ An **Artificial Intelligence & Data Science student** passionate about building 
 
 </div>
 
-### Current Focus
-
--  Artificial Intelligence
--  Natural Language Processing
--  Computer Vision
--  Software Engineering
--  Java & Python
--  Machine Learning
-
 > **Designing Tomorrow with Artificial Intelligence.**
 
 </td>
@@ -105,11 +96,7 @@ An **Artificial Intelligence & Data Science student** passionate about building 
 
 <div align="center">
 
-<img
-  src="https://raw.githubusercontent.com/karthika-k22/karthika-k22/output/github-contribution-grid-snake.svg"
-  alt="GitHub Contribution Snake"
-  width="100%"
-/>
+<img src="https://raw.githubusercontent.com/karthika-k22/karthika-k22/output/github-contribution-grid-snake.svg?v=4" width="100%" alt="Contribution">
 
 </div>
 
