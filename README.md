@@ -96,7 +96,18 @@ An **Artificial Intelligence & Data Science student** passionate about building 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/karthika-k22/karthika-k22/output/github-contribution-grid-snake.svg?v=4" width="100%" alt="Contribution">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/karthika-k22/karthika-k22/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/karthika-k22/karthika-k22/output/github-contribution-grid-snake.svg"
+    alt="Contribution"
+    width="100%"
+  />
+</picture>
 
 </div>
 
@@ -121,7 +132,7 @@ Python • Scikit-learn • Random Forest • Gradient Boosting
 
 <td width="50%">
 
-### Repository Intelligence
+### AI Repository Intelligence
 
 Analyzes software repositories using AI to understand code structure, deployment readiness, and project insights.
 
