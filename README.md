@@ -105,7 +105,11 @@ An **Artificial Intelligence & Data Science student** passionate about building 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/karthika-k22/karthika-k22/output/github-contribution-grid-snake.svg" alt="Contribution" width="100%"/>
+<img
+  src="https://raw.githubusercontent.com/karthika-k22/karthika-k22/output/github-contribution-grid-snake.svg"
+  alt="GitHub Contribution Snake"
+  width="100%"
+/>
 
 </div>
 
@@ -175,7 +179,6 @@ Python • OpenCV • TensorFlow • CNN
 # Currently Learning
 
 <div align="center">
-|:---:|-----------|
 | Computer Vision |
 | Natural Language Processing |
 | Java + DSA |
