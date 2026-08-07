@@ -5,9 +5,8 @@
   <img src="./assets/banner-dark.png" width="100%" alt="Karthika K Banner">
 </picture>
 
-# Hey there, I'm KARTHIKA!
 <div align="center">
-
+  <h1>Hey there, I'm KARTHIKA!</h1>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=2BD9A5&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Data+Science+Student;Designing+Tomorrow+with+Artificial+Intelligence;Computer+Vision+%7C+NLP+%7C+Machine+Learning;Always+Learning.+Always+Building." />
 
 <br><br>
@@ -24,8 +23,6 @@
 
 An **Artificial Intelligence & Data Science student** passionate about building intelligent systems that solve real-world problems.
 
----
-
 # Tech Stack
 
 <div align="center">
@@ -34,21 +31,15 @@ An **Artificial Intelligence & Data Science student** passionate about building 
 
 <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css" />
 
-<br><br>
-
 ### AI & Machine Learning
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
 
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
-<br><br>
-
 ### Development
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,firebase" />
-
-<br><br>
 
 ### Tools
 
@@ -58,18 +49,8 @@ An **Artificial Intelligence & Data Science student** passionate about building 
 
 > **Designing Tomorrow with Artificial Intelligence.**
 
-</td>
-
-<td width="35%" align="center">
-
-*(We'll replace this with your custom forest artwork later.)*
-
-</td>
-
 </tr>
 </table>
-
----
 
 # GitHub Dashboard
 
@@ -84,7 +65,6 @@ An **Artificial Intelligence & Data Science student** passionate about building 
 <img src="https://streak-stats.demolab.com?user=karthika-k22&theme=transparent&hide_border=true&background=000408&ring=66FFCC&fire=2BD9A5&currStreakLabel=CAF3E4&sideNums=F5F5F5&currStreakNum=66FFCC&dates=98F7D9"/>
 
 </div>
----
 
 # Contribution Activity
 
@@ -121,8 +101,6 @@ An **Artificial Intelligence & Data Science student** passionate about building 
 
 </div>
 
----
-
 # Featured Projects
 
 <table>
@@ -130,7 +108,7 @@ An **Artificial Intelligence & Data Science student** passionate about building 
 
 <td width="50%">
 
-### Landslide Prediction System
+### [Landslide Prediction System](https://github.com/karthika-k22/Landslide-Detection-System)
 
 Landslide prediction using Machine Learning with automated email alerts using 12 vital factors.
 
@@ -142,7 +120,7 @@ Python • Scikit-learn • Random Forest • Gradient Boosting
 
 <td width="50%">
 
-### AI Repository Intelligence
+### [AI Repository Intelligence](https://github.com/karthika-k22/karthika-k22)
 
 Analyzes software repositories using AI to understand code structure, deployment readiness, and project insights.
 
@@ -158,7 +136,7 @@ Python • AST • NLP • LLM • GitHub API
 
 <td width="50%">
 
-### Autism Learning Platform
+### [Autism Learning Platform](https://github.com/karthika-k22/Autism_Learning_Platform)
 
 Interactive educational platform using gamification and AI-assisted learning.
 
